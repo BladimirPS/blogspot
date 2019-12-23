@@ -35,15 +35,6 @@ body{
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
 #post{
     background: rgb(172, 162, 162);
-=======
-#footer{
-    background: rgb(43, 170, 12);
-    text-align: center;
-    padding: 0.5em;
-    font-size: 30px;
-    font-style: italic;
->>>>>>> footer
 }
